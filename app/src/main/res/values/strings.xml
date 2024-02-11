@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Apresentation Card</string>
+    <string name="title_compose_apresentation_card">"Gustavo Henrique Costa e Silva, "</string>
+    <string name="compose_short_desc">Desenvolvedor Back-end | Kotlin | GCP | Linux</string>
+    <string name="compose_long_desc">Cursando Análise e Desenvolvimento de Sistemas na Estácio de Sá, com foco em desenvolvimento Back-End utilizando Python e Kotlin. Ao longo dessa jornada acadêmica, venho aprimorando habilidades essenciais como modelagem de bancos de dados e desenvolvimento ágil colaborativo, além de ter desenvolvido um sólido conhecimento em lógica de programação. Atualmente imerso em uma jornada de aprofundamento em Desenvolvimento Android com Kotlin.\n\n .#Kotlin .#AndroidStudio .#JetPackCompose .\n\n</string>
+</resources>
